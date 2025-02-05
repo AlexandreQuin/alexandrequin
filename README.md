@@ -3,7 +3,8 @@
 I'm **Alexandre Quin**, a freelance web developer specializing in **back-end development**.  
 My focus is primarily on building robust and scalable **APIs** that power modern applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandre-quin-a58b71342)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandre-quin-a58b71342) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@alexandre-quin.fr)  
+🛜 [alexandre-quin.fr](https://www.alexandre-quin.fr)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alexandrequin&theme=blue_navy&hide_border=false)
 
